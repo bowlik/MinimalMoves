@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "start": 3,
+    "target": 67,
+    "operations": ["+1", "*2", "-3"]
+  },
+  {
+    "id": 2,
+    "start": 5,
+    "target": 88,
+    "operations": ["+1", "-2", "*2"]
+  },
+  {
+    "id": 3,
+    "start": 2,
+    "target": 666,
+    "operations": ["+15", "*3", "-1"]
+  },
+  {
+    "id": 4,
+    "start": 128,
+    "target": 1024,
+    "operations": ["+16", "-2", "*2", "+10"]
+  },
+  {
+    "id": 5,
+    "start": 52,
+    "target": 10000,
+    "operations": ["+160", "-20", "*6", "+10", "+2"]
+  }
+]
